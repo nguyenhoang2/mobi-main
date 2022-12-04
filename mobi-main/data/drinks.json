@@ -1,0 +1,100 @@
+[
+    {
+        "id": 0,
+        "name": "Điện thoại Samsung Galaxy Z Fold4 ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/250625/samsung-galaxy-z-fold4-256gb-1-1.jpg",
+        "price": 37990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+
+        ],
+        "description": "Galaxy Z Fold4 (2022) ra mắt với ngoại hình gần như là không đổi khi so với Galaxy Z Fold3, nếu bạn chỉ nhìn bề ngoài thì bạn sẽ khó lòng phân biệt được 2 sản phẩm này. Máy vẫn sử dụng khung viền Armor Aluminum bền bỉ, mặt kính màn hình phụ là Corning Gorilla Glass Victus+, mặt kính màn hình chính là Ultra Thin Glass."
+    },
+    {
+        "id": 1,
+        "name": "Điện thoại Samsung Galaxy S22 Ultra 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/271698/galaxy-s22-ultra-black-1.jpg",
+        "price": 30990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+        ],
+        "description": "Galaxy S22 Ultra trang bị cảm biến điểm ảnh 2.4 um lớn hơn để thu nhiều ánh sáng và dữ liệu hơn, cùng ống kính Super Clear Glass để quay video ban đêm mà không bị lóa."
+    },
+    {
+        "id": 2,
+        "name": "Điện thoại Samsung Galaxy Z Fold3 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/226935/samsung-galaxy-z-fold-3-1-3.jpg",
+        "price": 31990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Có thể thấy mẫu smartphone Galaxy Z Fold3 lần này vẫn giữ nguyên ngoại hình cùng cơ chế màn hình gập mở dạng quyển sách như của tiền nhiệm, hô biến chiếc smartphone thành một chiếc máy tính bảng mini một cách dễ dàng và ngược lại. "
+    },
+    {
+        "id": 3,
+        "name": "Điện thoại Samsung Galaxy S22+ 5G ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/242439/samsung-galaxy-s22-plus-trang-1-1.jpg",
+        "price": 19990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Galaxy S22+ 5G thiết kế bền bỉ với khung viền từ hợp kim Armor Aluminum cứng cáp, trang bị kính cường lực Gorilla Glass Victus+ giúp hạn chế trầy xước cho bạn thoải mái sử dụng thiết bị."
+    },
+    {
+        "id": 4,
+        "name": "Điện thoại Samsung Galaxy Z Flip4 ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/285030/sam-sung-galaxy-zflip4-vang-hong-1.jpg",
+        "price": 22990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Samsung Galaxy Z Flip4 256GB sở hữu ngoại hình bắt trend với các cạnh được gia công phẳng một cách tinh tế. "
+    }
+]

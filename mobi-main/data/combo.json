@@ -1,0 +1,105 @@
+[
+    {
+        "id": 0,
+        "name": "Điện thoại iPhone 11 ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-trang-1-2-org.jpg",
+        "price": 11690000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+            
+
+        ],
+        "description": "Nói về nâng cấp thì camera chính là điểm có nhiều cải tiến nhất trên thế hệ iPhone mới."
+    },
+    {
+        "id": 1,
+        "name": " Điện thoại iPhone 13 Pro ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/250260/iphone-13-pro1.jpg",
+        "price": 29490000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+            
+        ],
+        "description": " Thiết kế nguyên khối vuông vắn với khung viền được chế tác từ thép không gỉ chắc chắn, iPhone 13 Pro sở hữu thêm mặt kính cường lực Ceramic Shield cứng hơn bất kỳ mặt kính điện thoại thông minh nào khác trước đây, giúp bảo vệ màn hình khỏi trầy xước."
+    },
+    {
+        "id": 2,
+        "name": " Điện thoại iPhone 14 Pro",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/247508/iphone-14-pro-tim-1-1.jpg",
+        "price": 30590000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+        ],
+        "description": " Thừa hưởng phong cách thiết kế tối giản, hiện đại của thế hệ iPhone 13 series. "
+    },
+    {
+        "id": 3,
+        "name": " Điện thoại iPhone 14 Pro Max  ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-den-2.jpg",
+        "price": 33590000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+        ],
+        "description": " Sản phẩm có trong mình một diện mạo bắt mắt nhờ lối tạo hình vuông vức bắt trend tương tự thế hệ iPhone 13 series. "
+    },
+    {
+        "id": 4,
+        "name": " Điện thoại iPhone 14 Plus ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/245545/iphone-14-xanh-duong-1-1.jpg",
+        "price": 25990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+        ],
+        "description": " Được chế tác với kiểu dáng tương tự như thế hệ tiền nhiệm iPhone 13, tinh tế theo từng đường nét với khung nhôm chắc chắn."
+    }
+]

@@ -1,0 +1,100 @@
+[
+    {
+        "id": 0,
+        "name": "Điện thoại OPPO Reno8 Pro 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/260546/oppo-reno8-pro-xanh-1.jpg",
+        "price": 18990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+
+        ],
+        "description": "Lần này nhà OPPO mang đến cho chúng ta một chiếc điện thoại có thiết kế đặc biệt."
+    },
+    {
+        "id": 1,
+        "name": "Điện thoại OPPO A55 ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/249944/oppo-a55-4g-1-5.jpg",
+        "price": 4490000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+        ],
+        "description": "OPPO A55 4G có 3 phiên bản màu độc đáo là xanh lá, xanh dương và màu đen."
+    },
+    {
+        "id": 2,
+        "name": "Điện thoại OPPO Find X5 Pro 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/250622/oppo-find-x5-pro-1-1.jpg",
+        "price": 29990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Điều làm mình mê hoặc ngay từ cái nhìn đầu tiên là mặt lưng hết sức bóng bẩy. "
+    },
+    {
+        "id": 3,
+        "name": "Điện thoại OPPO Reno6 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/236186/oppo-reno6-den-1-org.jpg",
+        "price": 12990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "OPPO Reno6 được trang bị vi xử lý MediaTek Dimensity 900 đáp ứng mọi nhu cầu giải trí. "
+    },
+    {
+        "id": 4,
+        "name": "Điện thoại OPPO Reno7 Z 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/271717/oppo-reno7-z-1-4.jpg",
+        "price": 8990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Điện thoại OPPO Reno7 Z 5G có khung viền vát phẳng."
+    }
+]

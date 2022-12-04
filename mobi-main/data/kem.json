@@ -1,0 +1,101 @@
+[
+    {
+        "id": 0,
+        "name": "Điện thoại Xiaomi Redmi Note 11 ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/269831/xiaomi-redmi-note-11-1-3.jpg",
+        "price": 4490000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+            
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+
+        ],
+        "description": "Redmi Note 11 được hoàn thiện từ nhựa nguyên khối, mặt lưng thiết kế nhám mờ giúp quá trình sử dụng được thoải mái hơn, không bị trơn, tuột. "
+    },
+    {
+        "id": 1,
+        "name": "Điện thoại Xiaomi Redmi Note 11S",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/272668/xiaomi-redmi-note-11s-5g-lam-hong-1.jpg",
+        "price": 6090000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+            
+        ],
+        "description": "Điện thoại Redmi Note 11S 5G có ngoại hình bắt mắt với 3 màu sắc thời thượng gồm: Trắng, xám, xanh dương.  "
+    },
+    {
+        "id": 2,
+        "name": "Điện thoại Xiaomi 12 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/234621/1.jpg",
+        "price": 17490000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Ấn tượng đầu tiên khi mình nhìn điện thoại Xiaomi 12 5G là nó quá đẹp, các chi tiết được hoàn thiện một cách tỉ mỉ, cạnh viền được bo cong mềm mại và không thấy xuất hiện chi tiết thừa.  "
+    },
+    {
+        "id": 3,
+        "name": "Điện thoại Xiaomi 12T Pro 5G",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/279066/xiaomi-12t-pro-1.jpg",
+        "price": 16990000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Lần ra mắt này nhà Xiaomi mang đến cho chúng ta một chiếc điện thoại có thiết kế quen thuộc. "
+    },
+    {
+        "id": 4,
+        "name": "Điện thoại Xiaomi 12T 5G ",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/279065/xiaomi-12t-glr-bac-1-1.jpg",
+        "price": 12490000,
+        "ice": [
+            "Vàng",
+            "Đen",
+            "Đỏ",
+            "Xanh"
+        ],
+        "size": [
+            "32GB",
+            "56GB",
+            "215GB",
+            "512GB"
+        ],
+        "description": "Xiaomi 12T có thiết kế khá tương đồng với thế hệ tiền nhiệm, mặt lưng được làm bo cong ở hai cạnh kèm theo một dòng chữ “Xiaomi” bố trí ở góc dưới phần thân máy."
+    }
+]
